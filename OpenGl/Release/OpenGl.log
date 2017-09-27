@@ -1,0 +1,35 @@
+﻿  camera.cpp
+  display.cpp
+display.cpp(89): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+display.cpp(90): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  Fileoutput.cpp
+  main.cpp
+main.cpp(58): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+main.cpp(216): warning C4018: '<': signed/unsigned mismatch
+main.cpp(221): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(223): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(259): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+main.cpp(275): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+main.cpp(290): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+main.cpp(358): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+main.cpp(365): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mesh.cpp
+  obj_loader.cpp
+obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  Texture.cpp
+  transform.cpp
+  stb_image.c
+stb_image.c(300): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+stb_image.c(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+stb_image.c(400): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+stb_image.c(4293): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating code
+c:\users\plasm\desktop\fyp 541045\final source\opengl\opengl\display.cpp(276): warning C4715: 'display::keypress': not all control paths return a value
+  All 1431 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OpenGl.vcxproj -> C:\Users\plasm\Desktop\FYP 541045\Final Source\OpenGl\Release\OpenGl.exe

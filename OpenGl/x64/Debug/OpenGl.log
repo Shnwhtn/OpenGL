@@ -1,0 +1,49 @@
+﻿  transform.cpp
+  Texture.cpp
+  Shader.cpp
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\shader.cpp(82): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  obj_loader.cpp
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(84): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(121): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(136): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(164): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(262): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(296): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(329): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\obj_loader.cpp(386): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Object.cpp
+  mesh.cpp
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\mesh.cpp(84): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main.cpp
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(58): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(176): warning C4311: 'type cast': pointer truncation from 'char *' to 'int'
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(176): warning C4302: 'type cast': truncation from 'char *' to 'int'
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(221): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(223): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(259): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(275): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(290): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(357): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\main.cpp(364): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Fileoutput.cpp
+  display.cpp
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\display.cpp(89): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\display.cpp(90): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+  camera.cpp
+  Generating Code...
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\display.cpp(276): warning C4715: 'display::keypress': not all control paths return a value
+  stb_image.c
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\stb_image.c(300): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\stb_image.c(362): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\stb_image.c(400): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\stb_image.c(501): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\stb_image.c(514): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\plasm\onedrive\documents\visual studio 2015\projects\opengl\opengl\stb_image.c(4293): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+.\lib\glut32.lib : fatal error LNK1136: invalid or corrupt file
